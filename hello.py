@@ -1,2 +1,3 @@
-print("hellor")
-print('hey-yoo')
+numbers = range(5)
+for i in numbers: 
+    print("hellor")
