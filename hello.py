@@ -1,1 +1,2 @@
-hello("hellor")
+print("hellor")
+print('hey-yoo')
